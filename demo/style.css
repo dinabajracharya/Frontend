@@ -1,0 +1,56 @@
+/* .demo{
+    width: 500px;
+    height: 500px;
+    background-color: beige;
+}
+h1{
+    color:blue;
+} */
+
+.box1{
+    width: auto;
+    height: 100px;
+    background-color: blue;
+}
+.box2{
+    width: 1000px;
+    height: 400px;
+    background-color: blanchedalmond;
+    float: left;
+}
+.box3{
+    width: 500px;
+    height: 200px;
+    background-color: beige;
+    float: right;
+}
+.box4{
+    width: 500px;
+    height: 200px;
+    background-color:blueviolet;
+    float: right;
+}
+.box5{
+    width: 333.3px;
+    height: 150px;
+    background-color: brown;
+    float: left;
+}
+.box6{
+    width:  333.3px;
+    height: 150px;
+    background-color:aquamarine;
+    float: left;
+}
+.box7{
+    width:  333.3px;
+    height: 150px;
+    background-color:beige;
+    float: left;
+}
+.box8{
+    width: 500px;
+    height: 150px;
+    background-color:aquamarine;
+    float: right;
+}
